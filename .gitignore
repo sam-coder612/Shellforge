@@ -1,0 +1,4 @@
+shellforge
+src/shellforge
+*.o
+
