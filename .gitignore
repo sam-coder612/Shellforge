@@ -2,3 +2,4 @@ shellforge
 src/shellforge
 *.o
 
+/shellforge
